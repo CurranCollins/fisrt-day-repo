@@ -1,2 +1,2 @@
-# fisrt-day-repo
+# first-day-repo
 repo for first day
